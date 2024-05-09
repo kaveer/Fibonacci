@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZdEgZWoCVp4VQo/dIdJRk2UtB5uJWVuXEQnFeV2mzFP7PUH1K4quB0JaI2lvVZ050RYD0TMNkutPt5mzXtUGbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sd377186\\source\\repos\\CSharpe\\FibonacciSequence\\FibonacciSequence\\FibonacciSequence.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://proget/nuget/SDWorxNuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
